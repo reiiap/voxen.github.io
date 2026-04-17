@@ -1,9 +1,0 @@
-<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="640" height="420" rx="20" fill="#0B2C47"/>
-  <circle cx="520" cy="90" r="120" fill="#1DA1FF" fill-opacity="0.3"/>
-  <path d="M180 290L310 160L350 200L220 330L170 340L180 290Z" fill="#9BDAFF"/>
-  <path d="M300 170L380 90L430 140L350 220L300 170Z" fill="#3EF6A8"/>
-  <path d="M166 346L214 332L208 380L154 392L166 346Z" fill="#6CE5BC"/>
-  <text x="36" y="72" fill="#EAF5FF" font-family="Poppins, sans-serif" font-size="36" font-weight="700">Legend Contract Blade</text>
-  <text x="40" y="110" fill="#A7CFE7" font-family="Poppins, sans-serif" font-size="20">Awaken spirit • Bind element • Unlock ultimate</text>
-</svg>
