@@ -1,0 +1,16 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#052238"/>
+  <circle cx="1024" cy="120" r="170" fill="#1DA1FF" fill-opacity="0.35"/>
+  <circle cx="220" cy="600" r="210" fill="#3EF6A8" fill-opacity="0.25"/>
+  <rect x="0" y="460" width="1280" height="260" fill="#0A3A2B"/>
+  <rect x="120" y="360" width="120" height="120" fill="#3B556A"/>
+  <rect x="240" y="360" width="120" height="120" fill="#2F485C"/>
+  <rect x="360" y="360" width="120" height="120" fill="#365469"/>
+  <rect x="840" y="300" width="260" height="160" rx="12" fill="#0E344E"/>
+  <path d="M950 220L980 250L1040 190L1010 160L950 220Z" fill="#89C7FF"/>
+  <path d="M885 315L905 295L960 350L940 370L885 315Z" fill="#3EF6A8"/>
+  <path d="M505 170L575 250L665 160L595 80L505 170Z" fill="#1DA1FF" fill-opacity="0.8"/>
+  <path d="M470 205L540 285L630 195L560 115L470 205Z" fill="#3EF6A8" fill-opacity="0.6"/>
+  <text x="90" y="110" fill="#D8F2FF" font-family="Poppins, sans-serif" font-size="56" font-weight="700">VOXENSMP LEGEND CONTRACT</text>
+  <text x="96" y="162" fill="#95C8E7" font-family="Poppins, sans-serif" font-size="28">Semi RPG World • Mythic Weapons • Event Season</text>
+</svg>
